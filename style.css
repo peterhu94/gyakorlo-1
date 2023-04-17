@@ -1,0 +1,25 @@
+.box {
+    width: 100px;
+    height: 100px;
+    position: fixed;
+    bottom: 0;
+    right: 0;
+  }
+  
+  #box-01 {
+    background-color: hsla(60, 100%, 60%, .85);
+  }
+  
+  #box-02 {
+    background-color: hsla(84, 84%, 56%, .85);
+    width: 200px;
+    height: 200px;
+  }
+  
+  #box-03 {
+    background-color: hsla(332, 69%, 51%, .85);
+  }
+  
+  #box-04 {
+    background-color: hsla(279, 60%, 44%, .85);
+  }
